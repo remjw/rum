@@ -14,6 +14,7 @@ Unzip `rumw.zip`or `ruma.zip` to a folder and run from there in a terminal.
  
 
 Files:
+
     1. rum/ 
     The folder contains The executable rum.
 
@@ -32,6 +33,7 @@ Files:
     (to-be-created) rum appends new logs to log.txt in the log folder.
 
 Usage: 
+
     In the Terminal or CMD (Windows Commands), run the command: 
 
     rum.exe q=<queryfile> [r=<filename>] [f=<fileformat>]
