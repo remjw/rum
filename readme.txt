@@ -2,9 +2,9 @@ A console-based client program for class to connect to a local MySQL database, e
 
 
 - Get by git clone:
-Windows: git clone -b wind https://github.com/remjw/rumw.git rumw
+Windows: git clone -b wind https://github.com/remjw/rum.git rumw
 
-mac: git clone -b apple https://github.com/remjw/ruma.git ruma
+mac: git clone -b apple https://github.com/remjw/rum.git ruma
 
 - Or download and unzip the archive:
 Unzip `rumw.zip`or `ruma.zip` to a folder and run from there in a terminal.
@@ -75,7 +75,7 @@ Example Commands:
     rum.exe q=q2.sql r=flight_dfw_ord f=html
 
 
-Relevant Libraries, Chunking & Streaming Options in Pandas read_sql API:
+Relevant Libraries, Chunking & Streaming Options in Pandas read_sql API and SQLAlchemy:
 
 Pandas is an Python library for data manipulation and analysis so it is easy-to-use. With Pandas read_sql API, the program fetches data from a relational database into a Pandas dataframe. The benefits of using pandas include the subsequent data manipulation and engineering can easily be done within Pandas with its versatile APIs. 
 
