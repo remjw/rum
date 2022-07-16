@@ -1,0 +1,3 @@
+-- flight
+select * from flights 
+;
