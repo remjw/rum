@@ -4,6 +4,7 @@ A console-based client program for class to connect to a local MySQL database, e
 
 
 - Get by git clone:
+
 Windows: git clone -b wind https://github.com/remjw/rum.git rumw
 
 mac: git clone -b apple https://github.com/remjw/rum.git ruma
